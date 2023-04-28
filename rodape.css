@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.rodape {
+    background-color: #0370ff;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10%;
+}
+
+.rodape h2{
+    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.rodape img {
+    width: 12vw;
+    padding: 10%;
+    display: inline;
+    flex-wrap: wrap;
+}
+
+.rodape img:hover{
+    width: 14vw;
+}
+
+.rodape nav{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
