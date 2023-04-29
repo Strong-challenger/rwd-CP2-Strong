@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+.conteudo{
+    text-align: center;
+    margin: 10% 10% 2% 10%;
+}
+
+.conteudo h2{
+    font-size: 4em;
+    font-family: 'Bebas Neue', cursive; 
+    margin-bottom: 4%;
+}
+
+.conteudo p {
+    font-size: 1.6em;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 70%;
+    margin: auto;
+}
