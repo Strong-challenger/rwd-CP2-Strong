@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #0370ff;
+}
+
+.cabecalho img{
+    width: 20%;
+    max-width: 20%;
+    height:10%;
+    margin-left: 10%;
+    display: block;
+}
+
+.cabecalho nav{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    height: 50%;
+    flex-wrap: wrap;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 500;
+    text-align: center;
+    padding: 6% 2%;
+}
+
+.cabecalho a:hover{
+    color: #0370ff;
+    background-color: #fff;
+    border-radius: 5%;
+}
