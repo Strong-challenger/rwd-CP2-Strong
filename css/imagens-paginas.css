@@ -1,0 +1,15 @@
+.imagens-paginas img{
+    display: block;
+    width: 30vw;
+    height: 20vw;
+    margin: auto;
+
+}
+
+.imagens-paginas figcaption{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
