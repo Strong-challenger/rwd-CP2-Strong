@@ -1,0 +1,19 @@
+@media (max-width:1097px){
+
+    .imagens-links-home nav{
+        position: relative;
+        flex-direction: column;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .imagens-links-home img{
+        display: block;
+        margin: auto;
+    }
+
+    .imagens-links-home figcaption{
+        padding-bottom: 5%;
+    }
+   
+}
